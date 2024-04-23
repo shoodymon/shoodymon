@@ -18,4 +18,4 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=shoodymon&show_icons=true&theme=dark&text_color=0ffbff&locale=en&count_private=true" alt="shoodymon" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shoodymon&theme=dark" alt="shoodymon" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=shoodymon&theme=dark&count_private=true" alt="shoodymon" /></p>
