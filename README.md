@@ -1,41 +1,69 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikita
-==============================================================================================================================
+<h1 align="center">🔥 Welcome to my profile 🔥</h1>
 
-I'm a beginner software engineer. 😎
+###
 
-* 🌍  I'm based in Belarus
-* ✉️  You can contact me at [shoody2016@yandex.ru](mailto:shoody2016@yandex.ru)
-* 🧠  I'm learning New languages, tools, softskills
-* 🤝  I'm open to collaborating on interesting projects
-* ⚡  Remember, guys, the C++ tutorial is the way to salvation. © ArkHarKharon
+<h3 align="left">👩‍💻  About Me :</h3>
 
-<a href="https://www.github.com/shoodymon" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/shoodymon?logo=github&style=for-the-badge&color=22c55e&labelColor=000000" /></a>
+###
 
-### Skills
+<h4 align="left">My name is Nikita.<br>I'm a beginner software engineer. 😎<br><br>🌍  I'm based in Belarus<br>✉️  You can contact me at shoody2016@yandex.ru<br>🧠  I'm learning new languages, tools, softskills<br>🤝  I'm open to collaborating on interesting projects<br>⚡  Remember, guys, the C++ tutorial is the way to salvation. © ArkHarKharon</h4>
 
+###
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="50" height="50" alt="C++" /></a>
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="50" height="50" alt="C#" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" /></a>
-<a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="50" height="50" alt=".NET" /></a>
-</p>
+<h3 align="left">🔥  My Stats :</h3>
 
+###
 
-### Socials
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shoodymon&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="140" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=shoodymon&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5" height="140" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shoodymon&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="140" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=shoodymon&column=4&row=2&margin-w=5&margin-h=5&no-bg=false&theme=tokyonight" height="150" alt="trophy graph"  />
+</div>
 
-<p align="left"> 
-<a href="https://discord.com/users/shoodymon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> 
-<a href="https://www.github.com/shoodymon" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
-<a href="https://www.linkedin.com/in/nikita-zhyvahlod-891866246/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+###
 
-### Badges
+<h3 align="center">🛠 Languages and tools</h3>
 
-<b>My GitHub Stats</b>
+###
 
-<a href="http://www.github.com/shoodymon"><img src="https://github-readme-stats.vercel.app/api?username=shoodymon&show_icons=true&count_private=true&hide=&title_color=a855f7&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="shoodymon's GitHub stats" /></a>
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="55" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="55" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="55" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="55" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="55" alt="pycharm logo"  />
+</div>
 
-<a href="http://www.github.com/shoodymon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shoodymon&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+###
 
-<a href="https://github.com/shoodymon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shoodymon&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/nikita-zhyvahlod-891866246/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="67" height="55" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="67" height="55" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="67" height="55" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="67" height="55" alt="telegram logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/shoodymon/shoodymon/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/shoodymon/count.svg?"  />
+</div>
+
+###
