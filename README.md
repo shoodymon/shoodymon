@@ -3,6 +3,7 @@
 
 ### Languages
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-8A2BE2?style=for-the-badge&logo=C%2B%2B&logoColor=rgb&color=blue)
+![Static Badge](https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge&logo=C%23&logoColor=white&color=purple)
 
 ### Tools
 <!--
