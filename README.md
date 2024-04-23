@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there. 👋
+### My name is Nikita. I'm a beginner software engineer. 😎
 
 <!--
 **shoodymon/shoodymon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
