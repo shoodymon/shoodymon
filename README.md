@@ -1,6 +1,3 @@
-### Hi there. 👋
-### My name is Nikita. I'm a beginner software engineer. 😎
-
 <h3 align="center">Hi there. 👋</h3>
 <h3 align="center">My name is Nikita. I'm a beginner software engineer. 😎</h3>
 
