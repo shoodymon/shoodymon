@@ -1,14 +1,8 @@
 ### Hi there. 👋
 ### My name is Nikita. I'm a beginner software engineer. 😎
 
-### Languages
-![Static Badge](https://img.shields.io/badge/C%2B%2B-8A2BE2?style=for-the-badge&logo=C%2B%2B&logoColor=rgb&color=blue)
-![Static Badge](https://img.shields.io/badge/C%23-8A2BE2?style=for-the-badge&logo=C%23&logoColor=white&color=purple)
-
-### Tools
-
-
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Hi there. 👋</h3>
+<h3 align="center">My name is Nikita. I'm a beginner software engineer. 😎</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shoodymon&label=Profile%20views&color=0e75b6&style=flat" alt="shoodymon" /> </p>
 
