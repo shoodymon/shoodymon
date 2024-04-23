@@ -34,7 +34,7 @@ src="https://img.shields.io/github/followers/shoodymon?logo=github&style=for-the
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/shoodymon"><img src="https://github-readme-stats.vercel.app/api?username=shoodymon&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="shoodymon's GitHub stats" /></a>
+<a href="http://www.github.com/shoodymon"><img src="https://github-readme-stats.vercel.app/api?username=shoodymon&show_icons=true&count_private=true&hide=&title_color=a855f7&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&show_icons=true" alt="shoodymon's GitHub stats" /></a>
 
 <a href="http://www.github.com/shoodymon"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shoodymon&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
