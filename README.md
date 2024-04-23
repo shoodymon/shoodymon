@@ -2,7 +2,7 @@
 ### My name is Nikita. I'm a beginner software engineer. 😎
 
 ### Languages
-![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FC%2B%2B-8A2BE2?style=for-the-badge&logo=C%2B%2B&logoColor=rgb&color=blue)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-8A2BE2?style=for-the-badge&logo=C%2B%2B&logoColor=rgb&color=blue)
 
 ### Tools
 <!--
